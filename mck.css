@@ -1,0 +1,130 @@
+*{
+    margin: 0px;
+}
+.main1{
+    background-image: url("home.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.main2{
+    background-image: url("next.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    font-size: 13px;
+}
+.middle{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    padding-left: 1200px;
+    padding-right: 40px;
+    padding-top: 10px;
+}
+.middle a{
+    color: rgb(57, 47, 47);
+    text-decoration: none;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 500px;
+    padding-top:0px ;
+    padding-right: 40px;
+    padding-bottom: 10px;
+}
+.navbar a{
+    color: black;
+    background-color: white;
+    text-decoration: none;
+}
+
+.mainin{
+    padding-top: 250px;
+    padding-left: 150px;
+}
+.main1 h1{
+    color: white;
+    font-size: 40px;
+}
+.main1 button{
+    margin-top: 10px;
+    background-color: white;
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.mainin2{
+    padding-top: 250px;
+    padding-left: 150px;
+}
+.main2 h1{
+    color: white;
+    font-size: 40px;
+}
+.main2 button{
+    margin-top: 10px;
+    background-color: white;
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+p{
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.last{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.last h1{
+    text-align: center;
+}
+.last1{
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding-left: 550px;
+    padding-right: 550px;
+}
+.last1 a{
+    color: black;
+    border: 1px solid black;
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom: 10px ;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+#one{
+    color: rgb(209, 64, 64);
+}
+#two{
+color: rgb(125, 110, 110);
+}
+#three{
+    color: rgb(125, 110, 110);
+}
+#four{
+    color: rgb(125, 110, 110);
+}
+.new{
+    margin-left: 30px;
+}
